@@ -15,11 +15,14 @@ express-json-schema/
 ├── README.md           # Project documentation (This file)
 └── server.js           # Main application logic
 ```
-
-# Initialize & Install a new Node.js project
+```bash
+# Initialize a new Node.js project
 npm init -y
+```
+```bash
+#Install dependencies
 npm install express ajv ajv-formats
-
+```
 #Run the server
 ```bash
 node server.js
