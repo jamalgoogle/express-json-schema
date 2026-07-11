@@ -16,10 +16,8 @@ express-json-schema/
 └── server.js           # Main application logic
 ```
 
-# Initialize a new Node.js project
+# Initialize & Install a new Node.js project
 npm init -y
-
-# Install required npm packages
 npm install express ajv ajv-formats
 
 #Run the server
