@@ -14,7 +14,7 @@ express-json-schema/
 ├── package.json        # Project metadata and dependencies
 ├── README.md           # Project documentation (This file)
 └── server.js           # Main application logic
-
+```
 
 ```bash
 # Initialize a new Node.js project
